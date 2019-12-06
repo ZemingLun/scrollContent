@@ -7,7 +7,7 @@
 
 ## Demo
 
-[例子](https://zeminglun.github.io/scrollContent/index.html)
+[例子](https://zeminglun.github.io/scrollContent/)
 
 ## 使用
 
